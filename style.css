@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;  
+    margin: 0%;   
+    }
+    h1{
+     font-size: 50px;
+    }
+    .Name-color{
+        color: orange;
+    }
+    section{
+        display: flex;
+    }
+    .Half-width{
+        width: 50%;
+        padding-left: 5%;
+    }
+    .Half-width img{
+        width: 120%;
+        padding-right: 10%;
+    }
+    .Link-Button{
+        text-decoration: none;
+        background-image: linear-gradient(orange ,tomato);
+        font-weight: 700px;
+        color: white;
+        padding: 8px 20px;
+        border-radius: 5px;
+    }
+    .Top-Banner{
+        background-image: url(image/360_r.jpg);
+    }
