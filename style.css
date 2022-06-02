@@ -5,10 +5,13 @@ body{
     h1{
      font-size: 50px;
     }
+    h2{
+        font-size: 40px;
+    }
     .Name-color{
         color: orange;
     }
-    section{
+    .Flixeble-Conteinar{
         display: flex;
        margin-bottom: 2px;       
     }
@@ -30,8 +33,45 @@ body{
     }
     .Top-Banner{
         background-image: url(image/360_r.jpg);
+        padding-bottom: 150px;
     }
     .Dreem-Big{
         background-image: url(image/bottomo.jpg);
         background-repeat: no-repeat;
+        padding-bottom: 200px;
+    }
+    .Exprianse-Item{
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 20px;
+        border-radius: 15px;
+        box-shadow: 10px 10px 40px rgb(245, 147, 193);
+    }
+    .Expreanse-area{
+        background-image: url(image/rm309-adj-01.jpg);
+        margin-bottom: 5px;
+        padding-bottom: 180px;
+        
+    }
+    #Full-Stack-Devoloper{
+        border-left: 7px solid;
+        border-image: linear-gradient(blue, cyan);
+        border-image-slice: 1;
+    }
+    #Baby-Developer{
+        border-left: 7px solid;
+        border-image: linear-gradient(rgb(115, 255, 0), rgb(255, 72, 0));
+        border-image-slice: 1;
+    }
+    footer p{
+        text-align: center;
+        text-decoration: underline;
+        background-color: rgb(143, 100, 134);
+        margin-top: auto;
+        margin-bottom: 1%;
+        height: 100px;
+    }
+    .Footer-Color{
+        color: rgb(248, 242, 233);
     }
