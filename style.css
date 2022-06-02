@@ -65,8 +65,7 @@ body{
         border-image-slice: 1;
     }
     footer p{
-        text-align: center;
-        text-decoration: underline;
+        text-align: center;        
         background-color: rgb(143, 100, 134);
         margin-top: auto;
         margin-bottom: 1%;
