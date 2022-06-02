@@ -66,11 +66,9 @@ body{
     }
     footer p{
         text-align: center;        
-        background-color: rgb(143, 100, 134);
+        background-color: rgb(247, 208, 238);
         margin-top: auto;
         margin-bottom: 1%;
         height: 100px;
     }
-    .Footer-Color{
-        color: rgb(248, 242, 233);
-    }
+    
